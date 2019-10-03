@@ -1,0 +1,21 @@
+h1{
+    background-color: beige;
+    color: tomato;
+    text-decoration: underline;
+    padding: 20px;
+}
+.center{
+    text-align: center;
+}
+p{
+    font-weight: bold;
+  
+}
+.shape{
+    border: 5px solid tomato;
+    height: 120px;
+
+}
+li{
+    font-size: 25px;
+}
