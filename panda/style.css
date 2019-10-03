@@ -1,0 +1,28 @@
+header{
+    background-color: gray;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
+}
+img{
+    height: 200px;
+    width: 300px;
+    float: right;
+}
+div p{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 70%;
+}
+div h3{
+    background-color: antiquewhite;
+    padding: 15px;
+    width: 10%;
+}
+div{
+    padding-left: 20px; 
+}
